@@ -16,6 +16,7 @@
 		026495B227A9DD31007E4E97 /* auto_layout_and_resizingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026495B127A9DD31007E4E97 /* auto_layout_and_resizingTests.swift */; };
 		026495BC27A9DD31007E4E97 /* auto_layout_and_resizingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026495BB27A9DD31007E4E97 /* auto_layout_and_resizingUITests.swift */; };
 		026495BE27A9DD31007E4E97 /* auto_layout_and_resizingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026495BD27A9DD31007E4E97 /* auto_layout_and_resizingUITestsLaunchTests.swift */; };
+		026495CD27AA912C007E4E97 /* woman-gbe91f94ae_1920.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 026495CC27AA912C007E4E97 /* woman-gbe91f94ae_1920.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		026495B727A9DD31007E4E97 /* auto layout and resizingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "auto layout and resizingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		026495BB27A9DD31007E4E97 /* auto_layout_and_resizingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = auto_layout_and_resizingUITests.swift; sourceTree = "<group>"; };
 		026495BD27A9DD31007E4E97 /* auto_layout_and_resizingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = auto_layout_and_resizingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		026495CC27AA912C007E4E97 /* woman-gbe91f94ae_1920.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "woman-gbe91f94ae_1920.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		0264959927A9DD2C007E4E97 /* auto layout and resizing */ = {
 			isa = PBXGroup;
 			children = (
+				026495CC27AA912C007E4E97 /* woman-gbe91f94ae_1920.jpg */,
 				0264959A27A9DD2C007E4E97 /* AppDelegate.swift */,
 				0264959C27A9DD2C007E4E97 /* SceneDelegate.swift */,
 				0264959E27A9DD2C007E4E97 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				026495A727A9DD30007E4E97 /* LaunchScreen.storyboard in Resources */,
 				026495A427A9DD30007E4E97 /* Assets.xcassets in Resources */,
 				026495A227A9DD2C007E4E97 /* Main.storyboard in Resources */,
+				026495CD27AA912C007E4E97 /* woman-gbe91f94ae_1920.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
